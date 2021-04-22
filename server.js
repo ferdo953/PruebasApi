@@ -11,7 +11,7 @@ server.use(server.json());
 
 app.set('port',3000);
 
-//rutas
+//rutas /hola linse
 
 app.get('/',(req,resp)=>{
     resp.send("")
