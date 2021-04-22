@@ -1,5 +1,5 @@
 let ctrl={};
-ctrl.create = (req,res)=>{
+ctrl.create = (req,res)=>
     res.
 }
 
